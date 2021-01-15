@@ -1,2 +1,4 @@
-# intro-styled-component
-Projeto introdutório de como utilizar o styled component | Bootcamp FullStack | Digital Innovation One
+# Introdução ao Styled Component
+
+Projeto desenvolvido através de Webinar com Raquel Sousa Pereira, criando uma home com styled component | Bootcamp FullStack | Digital Innovation One
+
